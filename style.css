@@ -1,5 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Lora:ital@0;1&display=swap');
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url('fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf');
+
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('fonts/Lora/Lora-VariableFont_wght.ttf');
+}
 
 body {
   background-color: linen;
@@ -14,7 +22,7 @@ header {
 }
 
 h1, h2 {
-  font-family: 'Libre Baskerville', sans-serif;
+  font-family: 'Libre Baskerville', serif;
 }
 
 a {
@@ -27,7 +35,7 @@ a:hover, a:active {
 }
 
 .content {
-  font-family: 'Lora', sans-serif;
+  font-family: 'Lora', serif;
 }
 
 header, main, section, footer {
