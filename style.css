@@ -1,13 +1,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Lora:ital@0;1&display=swap');
 
-html {
+/*html {
   height: 100%;
-}
+}*/
 
 body {
-  background-image: linear-gradient(135deg, #266bff, #59cfa3);
+  /*background-image: linear-gradient(135deg, #266bff, #59cfa3);*/
+  background-color:linen;
   background-repeat: no-repeat;
-  color: white;
+  color: #606060;
+  margin: 10px;
+}
+
+header {
+  font-size: 150%;
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: 'Libre Baskerville', sans-serif;
+}
+
+.content {
+  font-family: 'Lora', sans-serif;
+}
+
+header, main, section, footer {
+  padding-top: 10px;
 }
