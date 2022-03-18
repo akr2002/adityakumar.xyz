@@ -40,3 +40,12 @@ footer {
   text-align: center;
   font-size: 80%;
 }
+
+a.footer-link {
+  color: #808080;
+  text-decoration: none;
+}
+
+a:hover.footer-link {
+  color: #b00c2f;
+}
