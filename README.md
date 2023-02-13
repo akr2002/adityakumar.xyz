@@ -1,3 +1,3 @@
-# divineduty.xyz
+# adityakumar.xyz
 
-Source code for https://divineduty.xyz/
+Source code for https://adityakumar.xyz/
