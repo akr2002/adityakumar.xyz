@@ -4,7 +4,7 @@ date: 2023-06-11T22:31:18+05:30
 weight: 9 # Order in which to show this project on the home page
 external_link: "https://gitea.adityakumar.xyz/" # Optional external link instead of modal
 resources:
-    - src: plant.jpg
+    - src: gitea.png
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
 draft: false

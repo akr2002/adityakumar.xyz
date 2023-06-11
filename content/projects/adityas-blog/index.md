@@ -4,7 +4,7 @@ date: 2023-06-11T22:08:48+05:30
 weight: 1 # Order in which to show this project on the home page
 external_link: "https://blog.adityakumar.xyz/" # Optional external link instead of modal
 resources:
-    - src: plant.jpg
+    - src: inkpot.png
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
 draft: false
