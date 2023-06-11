@@ -1,0 +1,3 @@
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://gitea.adityakumar.xyz/aditya/hugo-theme-introduction.git
