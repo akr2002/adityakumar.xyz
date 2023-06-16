@@ -2,15 +2,10 @@
 title: "Aditya's Blog"
 date: 2023-06-11T22:08:48+05:30
 weight: 1 # Order in which to show this project on the home page
-external_link: "https://blog.adityakumar.xyz/" # Optional external link instead of modal
-resources:
-    - src: inkpot.png
-      params:
-          weight: -100 # Optional weighting for a specific image in this project folder
 draft: false
 ---
 
-Welcome to My Blog!
+## Welcome to My Blog!
 
 Explore a world of tutorials, technical challenges, and solutions in the realm of computer science. Join me on a journey where I share my experiences, insights, and triumphs over various computing hurdles.
 
@@ -20,4 +15,4 @@ Whether you're seeking to set up your own Gitea server, master the art of Home-M
 
 Join me on this exciting journey of exploration, problem-solving, and sharing knowledge. Let's conquer technical challenges together and unlock the potential of the digital realm.
 
-Start exploring the blog now and prepare to be inspired!
+Start exploring the [blog](https://blog.adityakumar.xyz/) now and prepare to be inspired!
