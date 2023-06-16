@@ -5,7 +5,7 @@ weight: 1 # Order in which to show this project on the home page
 draft: false
 ---
 
-## Welcome to My Blog!
+## [Welcome to My Blog!](https://blog.adityakumar.xyz/)
 
 Explore a world of tutorials, technical challenges, and solutions in the realm of computer science. Join me on a journey where I share my experiences, insights, and triumphs over various computing hurdles.
 
