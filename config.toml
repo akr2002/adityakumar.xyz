@@ -1,3 +1,36 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "introduction"
+
+[params]
+  themeStyle = "auto" # choose "light", "dark" or "auto"
+  favicon = "/img/fav.ico"
+  showMenu = true
+  showRSSButton = true
+  fadeIn = true
+
+# Configure the home page
+  [params.home]
+    introHeight = "fullheight" # "medium", "large" or "fullheight"
+    localTime = true
+    timeZone = "Asia/Kolkata"
+    timeFormat = "en-GB"
+  [params.projects]
+    useTwoColumns = true
+
+  [[params.social]]
+    url = "https://www.linkedin.com/in/adityakr082/"
+    icon = "linkedin-in"
+    icon_pack = "fab"
+
+  [[params.social]]
+    url = "https://gitea.adityakumar.xyz/aditya"
+    icon = "git-alt"
+    icon_pack = "fab"
+
+  [[params.social]]
+    url = "https://github.com/akr2002"
+    icon = "github"
+    icon_pack = "fab"
+
