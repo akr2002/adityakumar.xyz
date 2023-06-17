@@ -5,7 +5,7 @@ draft: false
 weight: 8
 ---
 
-Hello, I'm Aditya Kumar, a computer science student with a passion for managing computers and backend development. I am particularly enthusiastic about contributing to open source projects. With a strong focus on virtual machines and server administration, I possess the skills to handle various Linux distributions including Debian, Ubuntu, and Fedora.
+Hello, I'm Aditya Kumar, a computer science student with a passion for managing computers and backend development. I am particularly enthusiastic about contributing to open source projects. With a strong focus on virtual machines and server administration, I possess the skills to handle various Linux distributions including Debian, Ubuntu, Archlinux, Gentoo, NixOS and Fedora.
 
 My Skill Set:
 
