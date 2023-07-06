@@ -1,3 +1,6 @@
 [submodule "themes/introduction"]
 	path = themes/introduction
 	url = https://gitea.adityakumar.xyz/aditya/hugo-theme-introduction.git
+[submodule "resume/themes/hugo-devresume-theme"]
+	path = resume/themes/hugo-devresume-theme
+	url = https://gitea.adityakumar.xyz/aditya/hugo-devresume-theme
