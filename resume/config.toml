@@ -226,11 +226,11 @@ theme = "hugo-devresume-theme"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/username"
+        url = "//github.com/akr2002"
         title = "akr2002"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/username"
+        url = "//linkedin.com/in/adityakr082"
         title = "adityakr082"
 
 
