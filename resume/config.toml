@@ -191,7 +191,7 @@ theme = "hugo-devresume-theme"
 
         [[params.projects.list]]
         title = "NASA International Space Apps Challenge 2022"
-        meta = "Hackthon"
+        meta = "Hackathon"
         tagline = "Participated in a hackathon with a team of four and developed a web application. Deployed the project on the website using Nginx."
 
         [[params.projects.list]]
