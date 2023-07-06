@@ -18,6 +18,6 @@ My Skill Set:
 
 Having a firm grasp of these technologies allows me to efficiently manage virtual machines and servers, ensuring optimal performance and stability. I believe in the power of open source and its ability to foster collaboration and innovation.
 
-I am always eager to expand my knowledge and stay up-to-date with the latest developments in the field. Through my website, I aim to share my experiences, insights, and contributions to the world of computer science and open source.
+I am always eager to expand my knowledge and stay up-to-date with the latest developments in the field. Through my website, I aim to share my experiences, insights, and contributions to the world of computer science and open source. See my [resume](resume.pdf).
 
 Feel free to explore my projects, blog, and reach out to me for potential collaborations or discussions. Let's connect and build something amazing together!
