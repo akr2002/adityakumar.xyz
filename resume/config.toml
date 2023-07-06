@@ -232,6 +232,10 @@ theme = "hugo-devresume-theme"
         icon = "fab fa-linkedin"
         url = "//linkedin.com/in/adityakr082"
         title = "adityakr082"
+        [[params.social.list]]
+        icon = "fas fa-download"
+        url = "resume.pdf"
+        title = "Download resume"
 
 
 
