@@ -103,6 +103,10 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.awards.list]]
+        name = "Fundamentals of Red Hat Enterprise Linux"
+        body = "Coursera"
+        date = "2023"
+        [[params.awards.list]]
         name = "AWS SAA-CO3"
         body = "Udemy"
         date = "2023"
