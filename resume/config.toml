@@ -103,11 +103,7 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.awards.list]]
-        name = "Linux System Administration with IBM Power Systems"
-        body = "Coursera"
-        date = "2023"
-        [[params.awards.list]]
-        name = "Fundamentals of Red Hat Enterprise Linux"
+        name = "Linux and Private Cloud Administration on IBM Power Systems"
         body = "Coursera"
         date = "2023"
         [[params.awards.list]]
