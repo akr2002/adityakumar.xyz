@@ -208,7 +208,7 @@ theme = "hugo-devresume-theme"
         [[params.projects.list]]
         title = "Vendetta Online Docker"
         meta = "Docker"
-        tagline = "Brought Docker support for Vendetta Online, a switch-based MMORPG. Allows the game to be installed on systems that do not follow Filesystem Hierarchy Standard."
+        tagline = "Brought Docker support for Vendetta Online, a 3D space combat MMORPG. Allows the game to be installed on systems that do not follow Filesystem Hierarchy Standard."
 
         [[params.projects.list]]
         title = "NASA International Space Apps Challenge 2022"
