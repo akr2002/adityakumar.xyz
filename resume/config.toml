@@ -103,6 +103,18 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.awards.list]]
+        name = "Microsoft Azure Developer Associate (AZ-204)"
+        body = "Coursera"
+        date = "2024"
+        [[params.awards.list]]
+        name = "AWS Cloud Solutions Architect"
+        body = "Coursera"
+        date = "2024"
+        [[params.awards.list]]
+        name = "Computer Vision for Engineering and Science"
+        body = "Coursera"
+        date = "2023"
+        [[params.awards.list]]
         name = "Linux and Private Cloud Administration on IBM Power Systems"
         body = "Coursera"
         date = "2023"
@@ -192,6 +204,11 @@ theme = "hugo-devresume-theme"
         title = "MyLinux"
         meta = "Operating System"
         tagline = "Created a Linux distribution from scratch using Linux From Scratch (LFS) and Beyond Linux From Scratch (BLFS) guides. Customized the kernel, boot loader, init system, package manager, desktop environment and applications. Tested and debugged the distribution on various hardware and virtual machines."
+
+        [[params.projects.list]]
+        title = "Vendetta Online Docker"
+        meta = "Docker"
+        tagline = "Brought Docker support for Vendetta Online, a switch-based MMORPG. Allows the game to be installed on systems that do not follow Filesystem Hierarchy Standard."
 
         [[params.projects.list]]
         title = "NASA International Space Apps Challenge 2022"
