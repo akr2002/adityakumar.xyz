@@ -60,14 +60,18 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.skills.list]]
-        title = "Technical"
+        title = "Languages"
         [[params.skills.list.items]]
-        details = "Linux, Git, Docker, PostgreSQL, System Administration, Open Source Collaboration, C/C++/Bash/Java/Rust/Nix/SQL"
+        details = "C, C++, Bash, Java, Python, R, Rust, Nix"
+        [[params.skills.list]]
+        title = "Technical Skils"
+        [[params.skills.list.items]]
+        details = "Linux, Git, Docker, PostgreSQL, System Administration, Open Source Collaboration, Docker"
 
         [[params.skills.list]]
-        title = "Professional"
+        title = "Concepts"
         [[params.skills.list.items]]
-        details = "Effective communication, Team Player, Strong problem solver, Attention to detail"
+        details = "Compiler, Operating System, Virtual Memory, Cache Memory, Encryption, Decryption, Artificial Intelligent, Machine Learning, Neural Networks, API, Database Normalization, Cloud Computing"
 
 
 
@@ -186,7 +190,14 @@ theme = "hugo-devresume-theme"
 
 
 
-
+    [params.experience]
+      enable = true
+    
+      [[params.experience.list]]
+      title = "Tester"
+      dates = "2024 - present"
+      company = "Arch Linux"
+      details = "Test and sign-off packages in testing repositories before they are released to core repository."
 
 
 
@@ -214,6 +225,11 @@ theme = "hugo-devresume-theme"
         title = "NASA International Space Apps Challenge 2022"
         meta = "Hackathon"
         tagline = "Participated in a hackathon with a team of four and developed a web application. Deployed the project on the website using Nginx."
+
+        [[params.projects.list]]
+        title = "Pleroma"
+        meta = "Server administration"
+        tagline = "A federated social network over ActivityPub protocol. Deployed the software on a VPS. Administered social network. Collaborated with administrators on other servers to help create a safe space for everyone. Administered database to ensure optimal performance of the server and ensure a smooth experience for everyone."
 
         [[params.projects.list]]
         title = "Home Pi"
