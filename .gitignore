@@ -158,3 +158,5 @@ dist
 # Deploy script
 deploy.sh
 */deploy.sh
+
+.direnv/
