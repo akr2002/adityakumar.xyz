@@ -84,9 +84,13 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.education.list]]
+        degree = "ME in Artificial Intelligence"
+        university = "Chandigarh University"
+        dates = "2024 - present"
+        [[params.education.list]]
         degree = "BE in Computer Science and Engineering"
         university = "Chandigarh University"
-        dates = "2020 - present"
+        dates = "2020 - 2024"
         [[params.education.list]]
         degree = "Intermediate (CBSE)"
         university = "DAV Model School"
