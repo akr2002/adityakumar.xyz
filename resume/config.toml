@@ -84,9 +84,13 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.education.list]]
+        degree = "ME in Artificial Intelligence"
+        university = "Chandigarh University"
+        dates = "2024 - present"
+        [[params.education.list]]
         degree = "BE in Computer Science and Engineering"
         university = "Chandigarh University"
-        dates = "2020 - present"
+        dates = "2020 - 2024"
         [[params.education.list]]
         degree = "Intermediate (CBSE)"
         university = "DAV Model School"
@@ -107,6 +111,10 @@ theme = "hugo-devresume-theme"
         enable = true
 
         [[params.awards.list]]
+        name = "IBM Machine Learning Professional Certificate"
+        body = "Coursera"
+        date = "2024"
+        [[params.awards.list]]
         name = "Microsoft Azure Developer Associate (AZ-204)"
         body = "Coursera"
         date = "2024"
@@ -121,10 +129,6 @@ theme = "hugo-devresume-theme"
         [[params.awards.list]]
         name = "Linux and Private Cloud Administration on IBM Power Systems"
         body = "Coursera"
-        date = "2023"
-        [[params.awards.list]]
-        name = "AWS SAA-CO3"
-        body = "Udemy"
         date = "2023"
         [[params.awards.list]]
         name = "Data Mining"
@@ -215,6 +219,11 @@ theme = "hugo-devresume-theme"
         title = "MyLinux"
         meta = "Operating System"
         tagline = "Created a Linux distribution from scratch using Linux From Scratch (LFS) and Beyond Linux From Scratch (BLFS) guides. Customized the kernel, boot loader, init system, package manager, desktop environment and applications. Tested and debugged the distribution on various hardware and virtual machines."
+
+        [[params.projects.list]]
+        title = "Smart Documents"
+        meta = "RAG, NLP"
+        tagline = "Created a document query microservice powered by natural kanguage processing. Used locally deployed large language models to aid in query. Used Docker to streamline deployment."
 
         [[params.projects.list]]
         title = "Vendetta Online Docker"
