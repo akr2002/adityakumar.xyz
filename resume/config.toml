@@ -71,7 +71,7 @@ theme = "hugo-devresume-theme"
         [[params.skills.list]]
         title = "Concepts"
         [[params.skills.list.items]]
-        details = "Compiler, Operating System, Virtual Memory, Cache Memory, Encryption, Decryption, Artificial Intelligent, Machine Learning, Neural Networks, API, Database Normalization, Cloud Computing"
+        details = "Compiler, Operating System, Cryptography, Artificial Intelligence, Machine Learning, Neural Networks, Natural Language Processing, API, Database Normalization, Cloud Computing"
 
 
 
